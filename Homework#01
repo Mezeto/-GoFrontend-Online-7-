@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title></title>
+	<style>
+		h1{
+			margin-right: "-10"
+		}
+	</style>
+</head>
+<body>
+<h2><center><b><p>Сёмкин Денис Сергеевич</p></b></center></h2>
+<center><img src="Мое фото.jpg" ></center>
+<center><i>Начинающий студент фронтенда</i></center>
+<hr width="300">
+<center><p><h3><b><p>Хочу учить фронтенд, потому что:</p></b></h3></p></center>
+    <center><li>Интересно</li></center>
+	<center><li>Популярно</li></center>
+	<center><p><h3><b><p>Мой контакный телефон</i></b></h3></p></center>
+	<center><i>+380502249626</i></center>
+	<center><h3><b><p>Мои соцсети</p></b></h3></center>
+	<center><p><a href="https://vk.com/monkist">Vk</a></p></center><center><p><a href="https://www.facebook.com/">facebook</a></p></center>
+	
+</body>
+</html>
